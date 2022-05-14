@@ -1,0 +1,15 @@
+---
+- name: clickhouse
+  src: git@github.com:PanMonsters/roles_clickhouse.git
+  scm: git
+- name: nginx
+  src: git@github.com:PanMonsters/roles_nginx.git
+  scm: git
+- name: lighthouse
+  src: git@github.com:PanMonsters/roles_lighthouse.git
+  scm: git
+  version: v1.0.0
+- name: vector
+  src: git@github.com:PanMonsters/roles_vector.git
+  scm: git
+  version: v1.0.0
