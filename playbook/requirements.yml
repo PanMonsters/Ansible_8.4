@@ -10,6 +10,6 @@
   scm: git
   version: v1.0.0
 - name: vector
-  src: git@github.com:PanMonsters/roles_vector.git
+  src: git@github.com:PanMonsters/roles-vector.git
   scm: git
-  version: v1.0.0
+  version: v1.2.0
